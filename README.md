@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Vue/Nuxt project for advertisement company with SSR  and another building company website**
 
-- 🌱 I’m currently learning: **Strapi, Express.js**
+- 🌱 I’m currently learning: **TypeScript, Strapi, Nuxt3 (+ composition API with TS)**
 
 - 👯 I’m looking to collaborate on: **Nuxt project**
 
