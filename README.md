@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github, some of them are on companies private Gitlab repositories, which I can't share. ;)](Github, some of them are on companies private Gitlab repositories, which I can't share. ;))
 
-- 📫 How to reach me: **dev.zomerfeld@gmail.com**
+- 📫 How to reach me: **[send an email](mailto:dev.zomerfeld@gmail.com)**
 
 - 📄 Know about my experiences: [https://cv.jakubzomerfeld.pl](https://cv.jakubzomerfeld.pl)
 
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/devzom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devzom" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10900851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10900851" height="30" width="40" /></a>
 <a href="https://fb.com/jzomerfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jzomerfeld" height="30" width="40" /></a>
 <a href="https://instagram.com/jzomerfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jzomerfeld" height="30" width="40" /></a>
