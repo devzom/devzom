@@ -51,7 +51,7 @@
 <h3 align="left">Contributing:</h3>
 
 <h4 align="left">Translation / documentation:</h4>
-  - <a href="https://bricksbuilder.io/" target="_blank">BricskBuilder.io</a><span>: Polish translation, bug reporting + documentation improvements</span> <br/>
+  - <a href="https://bricksbuilder.io/" target="_blank">BricskBuilder.io - WordPress page builder</a><span>: Polish translation, bug reporting + documentation improvements</span> <br/>
   - <a href="https://www.milki.app/" target="_blank">Milki.app - study timer</a><span>: Polish translation</span>
 
 
