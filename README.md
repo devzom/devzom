@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on: **Nuxt project**
 
-- 👨‍💻 All of my projects are available at [Github, some of them are on companies private Gitlab repositories, which I can't share. ;)](Github, some of them are on companies private Gitlab repositories, which I can't share. ;))
+- 👨‍💻 All of my projects are available at Github, some of them are on companies private Gitlab repositories, which I can't share. ;)
 
 - 📫 How to reach me: **[send an email](mailto:dev.zomerfeld@gmail.com)**
 
