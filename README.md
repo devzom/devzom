@@ -46,6 +46,17 @@
 <a href="https://vuepress.vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/></a>
 </p>
 
+<br/>
+<br/>
+<h3 align="left">Contributing:</h3>
+
+<h4 align="left">Translation / documentation:</h4>
+  - <a href="https://bricksbuilder.io/" target="_blank">BricskBuilder.io</a><span>: Polish translation, bug reporting + documentation improvements</span> <br/>
+  - <a href="https://www.milki.app/" target="_blank">Milki.app - study timer</a><span>: Polish translation</span>
+
+
+<br/>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzom&show_icons=true&locale=en&layout=compact" alt="devzom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en" alt="devzom" /></p>
