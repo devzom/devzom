@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **[send an email](mailto:dev.zomerfeld@gmail.com)**
 
-- 📄 Know about my experiences: [https://cv.jakubzomerfeld.pl](https://cv.jakubzomerfeld.pl)
+- 📄 Know about my experiences: [CV Resume](https://cv.jakubzomerfeld.pl)
 
 - ⚡ Hobbies: **I am a cyclist. who's like to take a tent and just go ahead without plan. I am also doing a photography professionally sometimes.**
 
