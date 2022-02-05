@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">Full-stack developer with strong Frontend skills</h3>
+<h3 align="center">Frontend developer with lots of full-stack skills</h3>
 
-- 🔭 I’m currently working on: **Vue/Nuxt project for advertisement company with SSR  and another building company website**
+- 🔭 I’m currently working on: **Vue/Nuxt storefront project with SSR and creating Vue CRM admin panel**
 
 - 🌱 I’m currently learning: **TypeScript, Strapi, Nuxt3 (+ composition API with TS)**
 
