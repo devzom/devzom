@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">Frontend developer with lots of full-stack skills</h3>
+<h3 align="center">Front-end developer with lots of full-stack JS related skills</h3>
 
-- 🔭 I’m currently working on: **Vue/Nuxt storefront project with SSR and creating Vue CRM admin panel**
+- 🔭 I’m currently working on: **Vue/Nuxt project with SSR and NX workspaces**
 
-- 🌱 I’m currently learning: **TypeScript, Strapi, Nuxt3 (+ composition API with TS)**
+- 🌱 I’m currently working a lot with: **Nuxt3, Strapi, Contentful, Vuetify, Tailwind and TypeScript everywhere :) **
 
-- 👯 I’m looking to collaborate on: **Nuxt project**
-
-- 👨‍💻 All of my projects are available at Github, some of them are on companies private Gitlab repositories, which I can't share. ;)
+- 👨‍💻 All of my projects are available at Github, but most of them are on corporate repositories, which I can't share. ;)
 
 - 📫 How to reach me: **[send an email](mailto:dev.zomerfeld@gmail.com)**
 
 - 📄 Know about my experiences: [CV Resume](https://cv.jakubzomerfeld.pl)
 
-- ⚡ Hobbies: **I am a cyclist. who's like to take a tent and just go ahead without plan. I am also doing a photography professionally sometimes.**
+- ⚡ Hobbies: **I am a cyclist. who's like to take a tent and just go ahead without plan, also doing photography professionally sometimes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
