@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Vue/Nuxt project with SSR and NX workspaces**
 
-- 🌱 I’m currently working a lot with: **Nuxt3, Strapi, Contentful, Vuetify, Tailwind and TypeScript everywhere :) **
+- 🌱 I’m currently working a lot with: **Nuxt3, Strapi, Contentful, Vuetify, Tailwind and TypeScript everywhere :)**
 
 - 👨‍💻 All of my projects are available at Github, but most of them are on corporate repositories, which I can't share. ;)
 
