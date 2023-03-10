@@ -57,9 +57,9 @@
 
 <br/>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzom&show_icons=true&locale=en&layout=compact" alt="Jakub Zomerfeld most used progamming languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzom&show_icons=true&locale=en&layout=compact&count_private=true" alt="Jakub Zomerfeld most used progamming languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en" alt="Jakub Zomerfeld github stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en&count_private=true" alt="Jakub Zomerfeld github stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devzom&" alt="Streak stats graphic" /></p>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/devzom/devzom/blob/main/devcard.svg" width="400" alt="Jakub Zomerfeld Dev Card"/>
