@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Front-end developer with lots of full-stack JS related skills</h3>
 
-- 🔭 I’m currently working on: **Vue/Nuxt project with SSR and NX workspaces**
+- 🔭 I’m currently working with: **Vue/Nuxt 3 projects with SSR and NX workspaces**
 
-- 🌱 I’m currently working a lot with: **Nuxt3, Strapi, Contentful, Vuetify, Tailwind and TypeScript everywhere :)**
+- 🌱 also lot time spent with: **Strapi, Contentful, Vuetify, Tailwind and TypeScript everywhere**
 
 - 👨‍💻 All of my projects are available at Github, but most of them are on corporate repositories, which I can't share. ;)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [CV Resume](https://cv.jakubzomerfeld.pl)
 
-- ⚡ Hobbies: **I am a cyclist. who's like to take a tent and just go ahead without plan, also doing photography professionally sometimes.**
+- ⚡ Hobbies: **I am a cyclist. who's like to take a tent and just go ahead without plan also landscapes photography, (I've been doing a lot of events photography professionaly).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,10 +40,10 @@
 <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/Laravel.svg" alt="vuepress" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://nuxtjs.org/" target="_blank"><img src="https://nuxt.com/assets/design-kit/logo/full-logo-green-light.svg" alt="Nuxt logo" width="100" height="40"/></a>	
+<a href="https://nuxtjs.org/" target="_blank"><img src="https://nuxt.com/assets/design-kit/logo/full-logo-green-light.svg" alt="Nuxt logo" width="90" height="40"/></a>	
 <a href="https://vuepress.vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/></a>
   
-<a href="https://cloudflare.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="Cloudflare logo" width="90" height="40"/></a>
+<a href="https://cloudflare.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="Cloudflare logo" width="80" height="40"/></a>
 </p>
 
 <br/>
@@ -57,9 +57,10 @@
 
 <br/>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzom&show_icons=true&locale=en&layout=compact&count_private=true" alt="Jakub Zomerfeld most used progamming languages" /></p>
+<p>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzom&show_icons=true&locale=en&layout=compact&count_private=true"  alt="Jakub Zomerfeld most used progamming languages" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en&count_private=true" alt="Jakub Zomerfeld github  stats" />
+  <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=devzom" alt="Jakub Zomerfeld Streak stats graphic" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en&count_private=true" alt="Jakub Zomerfeld github stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devzom&" alt="Streak stats graphic" /></p>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/devzom/devzom/blob/main/devcard.svg" width="400" alt="Jakub Zomerfeld Dev Card"/>
+<p><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/devzom/devzom/blob/main/devcard.svg" width="360" alt="Jakub Zomerfeld reading list card"/></p>
