@@ -59,7 +59,7 @@
 <br/>
 <p>
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzom&show_icons=true&locale=en&layout=compact&count_private=true"  alt="Jakub Zomerfeld most used progamming languages" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en&count_private=true" alt="Jakub Zomerfeld github  stats" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en&count_private=true&show=reviews" alt="Jakub Zomerfeld github  stats" />
   <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=devzom" alt="Jakub Zomerfeld Streak stats graphic" />
 </p>
 
