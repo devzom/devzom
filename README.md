@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">Front-end developer with lots of full-stack JS related skills</h3>
+<h3 align="center">Working as fullstack Javascript engineer but mostly with frontend</h3>
 
-- 🔭 I’m currently working with: **Vue/Nuxt 3 projects with SSR and NX workspaces**
+- 🔭 I’m currently working with: **Nuxt3 and Next.js projects with SSR and NX workspaces**
 
-- 🌱 also lot time spent with: **Strapi, Contentful, Vuetify, Tailwind and TypeScript everywhere**
+- 🌱 also lot time spent with: **AWS, Strapi, Payload and TypeScript**
 
 - 👨‍💻 All of my projects are available at Github, but most of them are on corporate repositories, which I can't share. ;)
 
 - 📫 How to reach me: **[send an email](mailto:dev.zomerfeld@gmail.com)**
 
-- 📄 Know about my experiences: [CV Resume](https://cv.jakubzomerfeld.pl)
+- 📄 Know about my experiences: [personal website](https://jakubzomerfeld.pl)
 
 - ⚡ Hobbies: **I am a cyclist. who's like to take a tent and just go ahead without plan also landscapes photography, (I've been doing a lot of events photography professionaly).**
 
@@ -29,7 +29,7 @@
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+<a href="https://nextjs.org" target="_blank"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
