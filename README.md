@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **[send an email](mailto:dev.zomerfeld@gmail.com)**
 
-- 📄 Know about my experiences: [personal website](https://jakubzomerfeld.pl)
+- 📄 Know about my experiences on <a href="https://jakubzomerfeld.pl" target="_blank">personal website</a>
 
 - ⚡ Hobbies: **I am a cyclist. who's like to take a tent and just go ahead without plan also landscapes photography, (I've been doing a lot of events photography professionaly).**
 
