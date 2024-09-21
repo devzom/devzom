@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">Working as fullstack Javascript engineer but mostly with frontend</h3>
+<h2 align="center">Full- stack engineer but mostly JS/TS + **loved frontend**</h2>
 
-- 🔭 I’m currently working with: **Nuxt3 and Next.js projects with SSR and NX workspaces**
+- 🔭 Currently working with: **Nuxt3 and Next.js projects with SSR and NX workspaces**
 
-- 🌱 also lot time spent with: **AWS, Strapi, Payload and TypeScript**
+- 🌱 Spent lot of time with technologies like: **TypeScript, AWS, and CMS: Strapi, Payload, WordPress** etc...
 
 - 👨‍💻 All of my projects are available at Github, but most of them are on corporate repositories, which I can't share. ;)
 
@@ -11,13 +11,11 @@
 
 - 📄 Know about my experiences on <a href="https://jakubzomerfeld.pl" target="_blank">personal website</a>
 
-- ⚡ Hobbies: **I am a cyclist. who's like to take a tent and just go ahead without plan also landscapes photography, (I've been doing a lot of events photography professionaly).**
+- ⚡ Hobbies: I am a cyclist. Like to take a tent and just go ahead without plan. Professional landscapes and events photography.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/10900851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10900851" height="30" width="40" /></a>
-<a href="https://fb.com/jzomerfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jzomerfeld" height="30" width="40" /></a>
-<a href="https://instagram.com/jzomerfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jzomerfeld" height="30" width="40" /></a>
+<p>
+<a href="https://stackoverflow.com/users/10900851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10900851" height="30" width="40" /></a> <a href="https://instagram.com/jzomerfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram jzomerfeld" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,20 +43,24 @@
 </p>
 
 <br/>
+<h3 align="left">Some stats:</h3>
+<div align="center">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzom&show_icons=true&locale=en&layout=compact&count_private=true"  alt="Jakub Zomerfeld most used progamming languages" />
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en&count_private=true&show=reviews" alt="Jakub Zomerfeld github statistic" />
+  <img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=devzom" alt="Jakub Zomerfeld Streak statistic graphic" />
+</div>
+<br/>
+<div align="center">
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/devzom/devzom/blob/main/devcard.svg" width="240" alt="Jakub's DailyDevTips reading list statistic"/>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66ef054ce80161c4cbf2f1c6?variant=dark" alt="Jakub's Roadmap.sh progress track"/></a>
+</div>
+
+
 <br/>
 <h3 align="left">Contributing:</h3>
-
 <h4 align="left">Translation / documentation:</h4>
-  - <a href="https://bricksbuilder.io/" target="_blank">BricskBuilder.io - WordPress page builder</a><span>: Polish translation, bug reporting + documentation improvements</span> <br/>
-  - <a href="https://www.milki.app/" target="_blank">Milki.app - study timer</a><span>: Polish translation</span>
-
-
+<ul>
+  <li><a href="https://bricksbuilder.io/" target="_blank">BricskBuilder.io - WordPress page builder</a><span>: Polish translation, bug reporting + documentation improvements</span></li>
+  <li><a href="https://www.milki.app/" target="_blank">Milki.app - study timer</a><span>: Polish translation</span></li>
+</ul>
 <br/>
-<br/>
-<p>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzom&show_icons=true&locale=en&layout=compact&count_private=true"  alt="Jakub Zomerfeld most used progamming languages" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en&count_private=true&show=reviews" alt="Jakub Zomerfeld github  stats" />
-  <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=devzom" alt="Jakub Zomerfeld Streak stats graphic" />
-</p>
-
-<p><a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/devzom/devzom/blob/main/devcard.svg" width="360" alt="Jakub Zomerfeld reading list card"/></p>
