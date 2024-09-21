@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h2 align="center">Full- stack engineer but mostly JS/TS + **loved frontend**</h2>
+<h2 align="center">Full-stack software engineer, mostly JS/TS + loved frontend</h2>
 
 - 🔭 Currently working with: **Nuxt3 and Next.js projects with SSR and NX workspaces**
 
@@ -62,5 +62,6 @@
 <ul>
   <li><a href="https://bricksbuilder.io/" target="_blank">BricskBuilder.io - WordPress page builder</a><span>: Polish translation, bug reporting + documentation improvements</span></li>
   <li><a href="https://www.milki.app/" target="_blank">Milki.app - study timer</a><span>: Polish translation</span></li>
+  <li>...rest check on Github</li>
 </ul>
 <br/>
