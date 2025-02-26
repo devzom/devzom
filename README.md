@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h2 align="center">Full-stack software engineer, mostly JS/TS + loved frontend</h2>
+<h2 align="center">Full-stack software engineer with T-shaped skillset, mostly JS/TS but love frontend</h2>
 
-- 🔭 Currently working with: **Nuxt3 and Next.js projects with SSR and NX workspaces**
+- 🔭 Currently working with: **Nuxt /  Next.js projects with SSR and NX workspaces**
 
 - 🌱 Spent lot of time with technologies like: **TypeScript, AWS, and CMS: Strapi, Payload, WordPress** etc...
 
