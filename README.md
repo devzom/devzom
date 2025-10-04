@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<a href="https://stackoverflow.com/users/10900851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10900851" height="30" width="40" /></a> <a href="https://instagram.com/jzomerfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram jzomerfeld" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10900851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10900851" height="30" width="30" /></a> <a href="https://instagram.com/jzomerfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram jzomerfeld" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and tools:</h3>
@@ -47,7 +47,7 @@
 <div align="center">
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzom&show_icons=true&locale=en&layout=compact&count_private=true"  alt="Jakub Zomerfeld most used progamming languages" />
   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en&count_private=true&show=reviews" alt="Jakub Zomerfeld github statistic" />
-  <img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=devzom" alt="Jakub Zomerfeld Streak statistic graphic" />
+  <img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=devzom" alt="Jakub Zomerfeld github commits streak statistic" />
 </div>
 <br/>
 <div align="center">
