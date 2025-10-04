@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h2 align="center">Full-stack software engineer with T-shaped skillset, mostly JS/TS but love frontend</h2>
+<h2 align="center">Senior software engineer with T-shaped skillset so  full-stack?, workking mostly with JS/TS ecosystem and love frontend but knows a lot</h2>
 
-- 🔭 Currently working with: **Nuxt /  Next.js projects with SSR and NX workspaces**
+- 🔭 Currently working with: **Nuxt /  Next.js projects with SSR and NX workspaces, based on differnt cloud providers, make a lot of automation**
 
-- 🌱 Spent lot of time with technologies like: **TypeScript, AWS, and CMS: Strapi, Payload, WordPress** etc...
+- 🌱 Spent lot of time with technologies like: **many frontend frameworks, BFF, AWS, and CMSs: Sanity, Strapi, Payload, WordPress** etc...
 
 - 👨‍💻 All of my projects are available at Github, but most of them are on corporate repositories, which I can't share. ;)
 
@@ -18,7 +18,7 @@
 <a href="https://stackoverflow.com/users/10900851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10900851" height="30" width="40" /></a> <a href="https://instagram.com/jzomerfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram jzomerfeld" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>	
@@ -43,7 +43,7 @@
 </p>
 
 <br/>
-<h3 align="left">Some stats:</h3>
+<h3 align="left">Some statistics:</h3>
 <div align="center">
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzom&show_icons=true&locale=en&layout=compact&count_private=true"  alt="Jakub Zomerfeld most used progamming languages" />
   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=devzom&show_icons=true&locale=en&count_private=true&show=reviews" alt="Jakub Zomerfeld github statistic" />
@@ -52,7 +52,7 @@
 <br/>
 <div align="center">
   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/devzom/devzom/blob/main/devcard.svg" width="240" alt="Jakub's DailyDevTips reading list statistic"/>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66ef054ce80161c4cbf2f1c6?variant=dark" alt="Jakub's Roadmap.sh progress track"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66ef054ce80161c4cbf2f1c6?variant=dark" alt="Jakub's Roadmap.sh programming skillset progress track"/></a>
 </div>
 
 
